@@ -1,0 +1,12 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #252245;
+}
+
+.container {
+    padding: 10px;
+}
