@@ -1,8 +1,9 @@
-EN: My landing page to show some projects
-PT-BR: Minha landing page de apresentação
+EN: My first true frontend project, just a test tho.
+PT-BR: Meu primeiro projeto real frontend, porém apenas para fins de teste e treino.
+
+Code made to Odin Project
 
 Copyright Section
-
 First Image:
 Photographer: Pascal Debrunner
 Link: https://unsplash.com/pt-br/fotografias/um-lago-cercado-por-arvores-e-uma-montanha-BtMu8YbfFjQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
