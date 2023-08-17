@@ -70,6 +70,7 @@ li {
     border: none;
     margin-top: 4px;
     padding: 4px;
+    font-size: 12px;
 }
 
 .imageDisplay {
@@ -149,4 +150,37 @@ li {
 .blueContainer {
     background-color: #3882F6;
     padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    border-radius: 3px;
+}
+
+.buttonDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.blueText, .blueSubtext {
+    color: #F9FAF8;
+}
+
+.blueText {
+    font-weight: bold;
+}
+
+.blueSubtext {
+    font-size: 10px;
+}
+
+.button {
+    background-color: #3882F6;
+    border-radius: 5px;
+    border: 1px solid #E5E7EB;
+    color: #E5E7EB;
+    font-size: 10px;
+    padding: 2px 15px;
+    font-weight: bold;
 }
