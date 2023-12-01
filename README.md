@@ -1,4 +1,5 @@
 VISIT THIS WEBSITE AT: https://korg1ooo.github.io/LandingPage/
+
 Code made to Odin Project
 
 Copyright Section
