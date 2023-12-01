@@ -1,6 +1,4 @@
-EN: My first true frontend project, just a test tho.
-PT-BR: Meu primeiro projeto real frontend, porém apenas para fins de teste e treino.
-
+VISIT THIS WEBSITE AT: https://korg1ooo.github.io/LandingPage/
 Code made to Odin Project
 
 Copyright Section
